@@ -10,7 +10,7 @@ on:
       - vetka
 
 
-joobs:
+jobs:
   checkstyle_project:
     runs-on: ubuntu-latest
     steps:
